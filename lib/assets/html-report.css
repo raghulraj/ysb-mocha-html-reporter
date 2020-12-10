@@ -18,6 +18,14 @@
     background: mediumpurple;
 }
 
+#mocha .test.pass.medium .duration {
+    background: mediumpurple;
+}
+
+#mocha .test.pass.fast .duration {
+    background: mediumpurple;
+}
+
 #mocha .test.pass pre {
     display: none;
 }

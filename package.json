@@ -1,6 +1,6 @@
 {
   "name": "ysb-mocha-html-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "YSB HTML reporter for Mocha",
   "license": "MIT",
   "repository": "raghulraj/ysb-mocha-html-reporter",
