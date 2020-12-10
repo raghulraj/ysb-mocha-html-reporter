@@ -1,2 +1,2 @@
 # ysb-mocha-html-reporter
-Mocha Html reporter
+YSB Mocha Html reporter
